@@ -11,7 +11,7 @@ Resources
 
 - [Event loop management](https://github.com/klavinslab/elma)
 - Docker
-- C++ libraries: "<iostream> , <chrono>, <vector>, <string>, <deque>, <json/json.h>, <tuple>, <stdexcept>, <map>, <functional>"
+- C++ libraries: iostream , chrono, vector, string, deque, json/json.h, tuple, stdexcept, map, functional
 
 
   
