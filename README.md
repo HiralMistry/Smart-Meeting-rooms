@@ -18,5 +18,22 @@ Resources
 - Docker
 - C++ libraries: iostream , chrono, vector, string, deque, json/json.h, tuple, stdexcept, map, functional
 
+Tasks Completed
+======
 
-  
+1) Decided to go for the project of Finite State Machine and selected the topic of Project: Smart Meeting rooms
+2) Forked the professors elma code and made a new repository.
+3) Started making the code for the project.
+4) Made a state machine diagram for the project and uploaded to the hw_8 folder.
+
+
+Milestones
+======
+
+1) Search and learn more about Raspberry Pi and Download the Pi Desktop. (Before Next Class)
+2) Analyze what all is needed to install to the Pi for making my code working on Pi. (Before Next Class)
+3) Implement a simple event management process (as described in state diagram) (Before Next Class)
+4) Write tests for a simple workflow. (By next Sunday)
+5) Add more features such as "checkAvailability" of rooms, "changeTemperature" of rooms based on temperature sensors and other conditions, "changeLightIntensities" of room based on related light intensity sensors. 
+6) Write more tests for these new features
+7) Complete the project report.
