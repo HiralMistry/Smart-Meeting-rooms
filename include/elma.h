@@ -15,10 +15,13 @@
 // Processes
 #include "process.h"
 #include "manager.h"
+#include "Light.h"
+#include "Temperature.h"
 
 // State Machines
 #include "state.h"
 #include "transition.h"
 #include "state_machine.h"
+#include "SmartRoom.h"
 
 #endif
