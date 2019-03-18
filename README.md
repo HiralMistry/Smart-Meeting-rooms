@@ -1,4 +1,4 @@
-Overview
+Overview (March 10, 2019)
 ===
 
 This project is all about making the meeting rooms smarter which automatically turns ON the lights if required and controls the room temperature if a person is present in the room. It automatically turns OFF lights and AC/Heater if nobody is present in the room. 
@@ -37,3 +37,16 @@ Milestones
 5) Add more features such as "checkAvailability" of rooms, "changeTemperature" of rooms based on temperature sensors and other conditions, "changeLightIntensities" of room based on related light intensity sensors. 
 6) Write more tests for these new features
 7) Complete the project report.
+
+Overview (March 17,2019)
+========
+
+- Made the code for project and uploaded to the github.
+- Made two Processes named Light and Temperature and a StatMachine named SmartRoom and State class for StateMachine.
+- Talked to professor and found my mistake in the code and implemented it.
+- Made user_interface and unit_test files and tested it.
+
+Milestone
+=====
+- Getting some errors which I need to solve and make the final code.
+- Make the doxygen.
